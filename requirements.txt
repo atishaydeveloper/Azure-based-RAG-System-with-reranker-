@@ -1,0 +1,6 @@
+azure-identity
+azure-ai-projects
+azure-core
+azure-search-documents
+azure-ai-inference
+langgraph
